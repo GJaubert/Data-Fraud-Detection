@@ -1,7 +1,7 @@
 # Data Fraud Detection
 Analysis of a [Credit Card](https://www.kaggle.com/mlg-ulb/creditcardfraud) Dataset to generate a model that predicts the customers that commit fraud. This project was documented in Spanish.
 
-# Authors
+## Authors
 - Javier Correa Marichal
 - Viren S. Dhanwani Dhanwani
 - Gabriel García Jaubert
